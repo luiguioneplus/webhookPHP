@@ -1,0 +1,10 @@
+2025-12-01 02:45:00-webhook recibido: {"order_id":1234,"customer_id":"juan perez","total_amount":99,"0":17}
+Procesando pedido: ID 1234, Cliente , Total 99
+2025-12-01 02:45:05-webhook recibido: {"order_id":1234,"customer_id":"juan perez","total_amount":99,"0":17}
+Procesando pedido: ID 1234, Cliente , Total 99
+2025-12-01 02:46:07-webhook recibido: {"order_id":1234,"customer_name":"juan perez","total_amount":99,"0":17}
+Procesando pedido: ID 1234, Cliente juan perez, Total 99
+2025-12-01 02:48:53-webhook recibido: {"order_id":1234,"customer_name":"juan perez","total_amount":99.17}
+Procesando pedido: ID 1234, Cliente juan perez, Total 99.17
+2025-12-01 02:56:29-webhook recibido: {"order_id":1234,"customer_name":"juan perez","total_amount":99.17}
+Procesando pedido: ID 1234, Cliente juan perez, Total 99.17
